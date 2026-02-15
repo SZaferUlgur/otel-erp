@@ -98,8 +98,7 @@ Otel yönetiminizi **tek bir platformdan**, **yüksek performans**, **modern tas
 ## 🍽️ Restoran & POS Entegrasyonu
 
 - 🧾 Oda hesabına adisyon yansıtma  
-- 🍷 Bar & restoran POS  
-- 📱 QR Menü desteği  
+- 🍷 Bar & restoran POS   
 
 ---
 
